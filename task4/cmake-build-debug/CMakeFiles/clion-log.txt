@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_PREFIX_PATH=/opt/homebrew/Cellar/gtkmm3/3.24.7 -G Ninja -S /Users/brage/Documents/cppForBroGrammers/task4 -B /Users/brage/Documents/cppForBroGrammers/task4/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/brage/Documents/cppForBroGrammers/task4/cmake-build-debug
