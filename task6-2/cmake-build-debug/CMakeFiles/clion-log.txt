@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/brage/Documents/cppForBroGrammers/task6-2 -B /Users/brage/Documents/cppForBroGrammers/task6-2/cmake-build-debug
+-- Found Boost: /opt/homebrew/lib/cmake/Boost-1.81.0/BoostConfig.cmake (found suitable version "1.81.0", minimum required is "1.66.0") found components: system 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/brage/Documents/cppForBroGrammers/task6-2/cmake-build-debug
