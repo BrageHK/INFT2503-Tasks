@@ -3,4 +3,4 @@ project(task7)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(task7 main.cpp)
+add_executable(task7 main.cpp fraction.hpp fraction.cpp Mengde.cpp Mengde.hpp)
